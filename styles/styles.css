@@ -1,0 +1,23 @@
+*{
+    background-color: whitesmoke;
+}
+
+#containerBody{
+    text-align: center;
+    padding-bottom: 20px;
+    padding: 20px;
+    margin: 40px 250px 250px 230px;
+}
+
+#containerText{
+    font-size: 52px;
+}
+
+#containerButtons button{
+    border-radius: 8px;
+    border-color: green;
+    color: grey;
+    height:200px;
+    width:200px;
+    font-size: 24px;
+}
